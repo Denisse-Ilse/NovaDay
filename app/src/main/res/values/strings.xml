@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Nova Day</string>
+
+
+    <string name="nav_inicio">Inicio</string>
+    <string name="nav_habitos">Hábitos</string>
+    <string name="nav_objetivos">Objetivos</string>
+    <string name="nav_progreso">Progreso</string>
+    <string name="proximamente">Próximamente</string>
+
+
+    <string name="inicio_titulo">Hola, así va tu progreso</string>
+    <string name="inicio_progreso_diario">Progreso diario</string>
+    <string name="inicio_anadir_habito">+ Añadir hábito</string>
+
+    <!-- Formulario de hábito -->
+    <string name="form_titulo">Nuevo hábito</string>
+    <string name="form_nombre">Nombre del hábito</string>
+    <string name="form_meta">Meta (ej. 20 minutos)</string>
+    <string name="form_frecuencia">Frecuencia (ej. Todos los días)</string>
+    <string name="form_error_nombre">Escribe un nombre para el hábito</string>
+    <string name="form_guardar">Guardar</string>
+    <string name="form_cancelar">Cancelar</string>
+
+
+    <string name="habitos_titulo">Hábitos</string>
+    <string name="habitos_buscar">Buscar hábitos</string>
+    <string name="habitos_crear">+ Crear hábito</string>
+    <string name="habitos_tus_habitos">Tus hábitos</string>
+    <string name="habitos_activos">%1$d activos</string>
+    <string name="habitos_activo">Activo</string>
+    <string name="habitos_editar">Editar</string>
+    <string name="habitos_mas_opciones">Más opciones</string>
+
+
+    <string name="habito_leer">Leer</string>
+    <string name="habito_estudiar">Estudiar</string>
+    <string name="habito_caminar">Caminar</string>
+    <string name="habito_beber_agua">Beber agua</string>
+
+
+    <string name="habito_leer_20">Leer 20 minutos</string>
+    <string name="detalle_leer">20 minutos · Todos los días</string>
+    <string name="detalle_estudiar">45 minutos · De lunes a viernes</string>
+    <string name="detalle_caminar">30 minutos · Todos los días</string>
+    <string name="detalle_beber_agua">8 vasos · Todos los días</string>
+
+
+    <!-- Pantalla habitos -->
+
+    <string name="habitos_inactivo">Inactivo</string>
+    <string name="habitos_desactivar">Desactivar</string>
+    <string name="habitos_activar">Activar</string>
+    <string name="habitos_eliminar">Eliminar</string>
+    <string name="habitos_vacio">No hay hábitos aún. Toca «+ Crear hábito» para agregar uno.</string>
+    <string name="eliminar_titulo">¿Eliminar hábito?</string>
+    <string name="eliminar_mensaje">Se borrará «%1$s» y todos sus registros. Esta acción no se puede deshacer.</string>
+
+    <!-- Pantalla objetivos -->
+    <string name="objetivos_titulo">Objetivos</string>
+    <string name="objetivos_nuevo">+ Nuevo objetivo</string>
+    <string name="objetivos_cada_paso">Cada paso cuenta</string>
+    <string name="objetivos_en_curso">%1$d en curso</string>
+    <string name="objetivos_habito_asociado">Hábito asociado: %1$s</string>
+    <string name="objetivos_fecha">Fecha objetivo · %1$s</string>
+    <string name="objetivos_sin_fecha">Sin fecha límite</string>
+    <string name="objetivos_ver_detalle">Ver detalle</string>
+    <string name="objetivos_editar">Editar</string>
+    <string name="objetivos_vacio">Aún no tienes objetivos. Toca «+ Nuevo objetivo» para crear uno.</string>
+    <string name="objetivos_sin_habito">Sin hábito asociado</string>
+    <string name="objetivos_sumar">+1 de avance</string>
+    <string name="objetivos_cerrar">Cerrar</string>
+    <string name="objetivos_eliminar_titulo">¿Eliminar objetivo?</string>
+    <string name="objetivos_eliminar_mensaje">Se borrará «%1$s». Esta acción no se puede deshacer.</string>
+</resources>
